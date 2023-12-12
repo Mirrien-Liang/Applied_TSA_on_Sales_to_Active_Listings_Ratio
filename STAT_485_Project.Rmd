@@ -552,7 +552,7 @@ We used our model to predict 5 years into the future. From the forecasting plot,
 
 ## Conclusion
 
-Modeling efforts led to the selection of $SARIMA(2,0,1)\times(1,0,0)_{12}$ as the preferred choice due to its ability to cappture short-term dynamics and seasonal patterns. This model, despite a relatively higher AIC compared to $SARIMA(2,0,1)\times(1,0,0)_{12}$, showcased a more reasonable fit by appropriately handling presumably non-recurring shocks in 2016 and 2021 without overfitting.
+Modeling efforts led to the selection of $SARIMA(2,0,1)\times(1,0,0)_{12}$ as the preferred choice due to its ability to capture short-term dynamics and seasonal patterns. This model, despite a relatively higher AIC compared to $SARIMA(2,0,1)\times(1,0,0)_{12}$, showcased a more reasonable fit by appropriately handling presumably non-recurring shocks in 2016 and 2021 without overfitting.
 
 While proficient in short-term forecasting, the chosen model displayed reduced accuracy in longer forecasts, possibly indicative of overfitting. Predictions suggested a gradual decrease in market volatility, assuming no major shocks.
 
