@@ -1,5 +1,6 @@
 # SFU STAT 485 (Fall 2023) Time Series Analysis Project
 **Author:** June Nguyen, Mirrien Liang, Alex Li
+
 **Last Updated on:** December 9, 2023
 
 ## Project Background
